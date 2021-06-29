@@ -1,5 +1,5 @@
  
-
+https://makecode.com/_eP4AJMF9odyJ The game
 
 > Open this page at [https://mameeewin.github.io/gameideamaker/](https://mameeewin.github.io/gameideamaker/)
 
